@@ -7,12 +7,12 @@ package category_test
 import (
 	"fmt"
 
-	"github.com/brunomvsouza/ynab.go/api/category"
+	"github.com/phstephan/ynab.go/api/category"
 
 	"reflect"
 
-	"github.com/brunomvsouza/ynab.go"
-	"github.com/brunomvsouza/ynab.go/api"
+	"github.com/phstephan/ynab.go"
+	"github.com/phstephan/ynab.go/api"
 )
 
 func ExampleService_GetCategory() {
